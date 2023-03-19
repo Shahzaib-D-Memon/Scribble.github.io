@@ -202,7 +202,6 @@ font-weight: 400;
 
 /* choose */
 .choose_content{
-  
     display: flex;
     justify-content: space-evenly;
     align-items: center;
