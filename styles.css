@@ -216,11 +216,11 @@ body {
 .choose__all{
     width: 80%;
     background-color: #fff;
-   max-width: 800px;
-   margin-left: auto;
-   margin-right: auto;
-   text-align: center;
-   border-radius: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 20px;
 }
 .left__choose{
     background-image: url('./images/choose.png');
