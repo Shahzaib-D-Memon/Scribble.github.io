@@ -272,7 +272,7 @@ line-height: 21px;
 
 @media screen and (max-width: 768px) {
     .sign__form{
-        border-radius: 10px !important;
+    border-radius: 10px !important;
         
     }
     .sign__back{
