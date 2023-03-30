@@ -255,8 +255,8 @@ a {
 .choose__content-para{
     font-family: 'Poppins';
     font-weight: 300;
-font-size: 14px;
-line-height: 21px;
+    font-size: 14px;
+    line-height: 21px;
 }
 .choose__border{
     background-image: url('./images/line.png');
