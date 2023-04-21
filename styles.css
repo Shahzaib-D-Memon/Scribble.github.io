@@ -8,6 +8,7 @@ body {
 }
 
 /* navbar stylings */
+
 .navbar {
   display: flex;
   color: #fff;
@@ -29,6 +30,7 @@ body {
 }
 .nav_items ul li a {
   font-family: "Poppins", sans-serif;
+
   padding: 0px 10px;
   color: #fff;
   font-size: 18px;
@@ -54,6 +56,7 @@ body {
   color: #fff;
   font-size: 18px;
   margin-top: 10px;
+  /* font-family: 'Poppins', sans-serif; */
 }
 .content_computer a {
   text-decoration: none;
@@ -68,6 +71,7 @@ body {
 .img_computer img {
   float: right;
 }
+
 
 .works_title {
   color: #fff;
@@ -90,8 +94,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-
- .home_cards img {
+.home_cards img {
   width: 40px;
 }
 
@@ -101,8 +104,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+   
 
+}
 .sign__back{
     background-image: url('./images/sign.png');
     height: 30rem;
@@ -123,8 +127,9 @@ body {
     line-height: 28px;
     letter-spacing: 1px;
     font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
+font-style: normal;
+font-weight: 400;
+    
 }
 .sign__para{
     color: #fff;
@@ -134,10 +139,12 @@ body {
     font-size: 15px;
     letter-spacing: 0.5px;
     line-height: 22px;
+
 }
 .sign__login a{
     text-decoration: none !important;
     color: black !important;
+    
 }
 .sign__login{
     font-size: 10px;
@@ -148,6 +155,7 @@ body {
     text-align: center;
     font-size: 16px;
     line-height: 24px;
+
 }
 .sign__form form {
     display: flex;
@@ -186,6 +194,7 @@ body {
 }
 
 
+
 /* Sign Up page stylings end */
 
 
@@ -195,8 +204,10 @@ body {
     padding-top: 5rem !important;
 }
 
+
 /* choose */
 .choose_content{
+  
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -214,11 +225,11 @@ body {
 .choose__all{
     width: 80%;
     background-color: #fff;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    border-radius: 20px;
+   max-width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   border-radius: 20px;
 }
 .left__choose{
     background-image: url('./images/choose.png');
@@ -233,7 +244,7 @@ body {
     background-size: cover;
 }
 a {
-    text-decoration: none;
+    text-decoration: none   ;
 }
 .right__choose{
     background-image: url('./images/choose.png');
@@ -250,14 +261,14 @@ a {
 .choose__content-title{
     font-family: 'Poppins';
     font-weight: 300;
-    font-size: 24px;
-    line-height: 36px;
+font-size: 24px;
+line-height: 36px;
 }
 .choose__content-para{
     font-family: 'Poppins';
     font-weight: 300;
-    font-size: 14px;
-    line-height: 21px;
+font-size: 14px;
+line-height: 21px;
 }
 .choose__border{
     background-image: url('./images/line.png');
@@ -265,12 +276,13 @@ a {
     background-size: cover;
     width: 2px;
     height: 300px;
+    
 }
 
 
 @media screen and (max-width: 768px) {
     .sign__form{
-    border-radius: 10px !important;
+        border-radius: 10px !important;
         
     }
     .sign__back{
