@@ -34,6 +34,6 @@ Check out the live demo: [ScribbleAi Demo](https://shahzaib-d-memon.github.io/Sc
 - Commit your changes: git commit -m 'Add feature'
 - Push to the branch: git push origin feature-name
 - Submit a pull request.
-- 
+
 ## Author
 Shahzaib Memon
