@@ -101,8 +101,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-   
 }
+
 .sign__back{
     background-image: url('./images/sign.png');
     height: 30rem;
