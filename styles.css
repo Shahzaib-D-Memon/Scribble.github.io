@@ -347,6 +347,7 @@ line-height: 21px;
 .blog_inputs input:focus {
   outline: none;
 }
+
 .blog_inputs a {
   text-decoration: none;
   color: #fff;
