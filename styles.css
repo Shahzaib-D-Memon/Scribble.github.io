@@ -399,7 +399,6 @@ line-height: 21px;
   .generated_blog_content::-webkit-scrollbar-track {
     background: #ccc;
   }
-  
   .generated_blog_content::-webkit-scrollbar-thumb {
     background-image: linear-gradient(#F47F9E, #36C4F2);
     border-radius: 6px;
