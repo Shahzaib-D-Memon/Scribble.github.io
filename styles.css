@@ -462,7 +462,7 @@ line-height: 21px;
     display: flex;
     justify-content: space-between;
   }
-  .gene_twil_btn a {
+.gene_twil_btn a {
       border: none;
       background-color: #36c4f2;
       color: #fff;
