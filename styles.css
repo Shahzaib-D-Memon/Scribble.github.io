@@ -168,7 +168,7 @@ body {
     width: 90%;
     margin: 0 auto;
     display: block;
-  }
+}
 
 .sign__form input:focus {
     outline: none;
