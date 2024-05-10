@@ -173,6 +173,7 @@ body {
 .sign__form input:focus {
     outline: none;
   }
+
   .sign__form input[type=text], input[type=password], select {
     padding: 12px 0px;
     margin: 8px 0;
