@@ -3,6 +3,7 @@
 ScribbleAi is a website that allows users to effortlessly create engaging technical blog posts and social media content with the power of AI. This repository contains the front-end design for the ScribbleAi website, including the homepage, login, sign up, and dashboard pages.
 
 ## Live Demo
+
 Check out the live demo: [ScribbleAi Demo](https://shahzaib-d-memon.github.io/Scribble.github.io/)
 
 ## Features
@@ -20,13 +21,18 @@ Check out the live demo: [ScribbleAi Demo](https://shahzaib-d-memon.github.io/Sc
 ## Getting Started
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Shahzaib-D-Memon/Scribble.github.io.git
 
+   ```
+
 2. **Open the website:**
+
 - Open the index.html file in your preferred web browser to explore the website.
 
 ## Contributing
+
 - If you would like to contribute to the development of ScribbleAi, feel free to fork the repository and submit pull requests.
 
 - Fork the repository.
@@ -36,4 +42,5 @@ Check out the live demo: [ScribbleAi Demo](https://shahzaib-d-memon.github.io/Sc
 - Submit a pull request.
 
 ## Author
+
 Shahzaib Memon
