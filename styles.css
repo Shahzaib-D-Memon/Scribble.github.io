@@ -10,7 +10,7 @@ body {
 .navbar {
   display: flex;
   color: #fff;
-  padding: 10px 15px;
+  padding: 10px 14px;
   border-bottom: 1px solid #fff;
 }
 .logo a {
