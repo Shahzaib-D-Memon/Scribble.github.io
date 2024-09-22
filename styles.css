@@ -11,22 +11,25 @@ body {
   color: #fff;
   padding: 10px 15px;
   border-bottom: 1px solid #fff;
+  
 }
 
 .logo a {
   color: #fff;
 }
+
 .logo h2 {
   font-family: "Poppins", sans-serif;
 }
+
 .nav_items ul {
   display: flex;
 }
-
 .nav_items ul li {
   list-style-type: none;
   padding-top: 10px;
 }
+
 .nav_items ul li a {
   font-family: "Poppins", sans-serif;
   padding: 0px 10px;
@@ -34,6 +37,7 @@ body {
   font-size: 18px;
   text-decoration: none;
 }
+
 /* navbar stylings end */
 /* hero section stylings */
 .content_computer {
@@ -41,6 +45,7 @@ body {
   font-family: "Poppins", sans-serif;
   padding: 0px 25px;
 }
+
 .content_computer h2 {
   font-family: "Poppins", sans-serif;
   color: #fff;
@@ -54,7 +59,6 @@ body {
   margin-top: 10px;
   /* font-family: 'Poppins', sans-serif; */
 }
-
 .content_computer a {
   text-decoration: none;
   border: 1px solid #fff;
@@ -64,6 +68,7 @@ body {
   padding: 8px 20px;
   border-radius: 8px;
 }
+
 .img_computer img {
   float: right;
 }
