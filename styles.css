@@ -24,6 +24,7 @@ body {
 
 .nav_items ul {
   display: flex;
+  
 }
 .nav_items ul li {
   list-style-type: none;
