@@ -1,7 +1,7 @@
 # ScribbleAi Website
 
 ScribbleAi is a website that allows users to effortlessly create engaging technical blog posts and social media content with the power of AI. This repository contains the front-end design for the ScribbleAi website, including the homepage, login, sign up,
-& dashboard pages.
+and dashboard pages.
 
 ## Live Demo
 
