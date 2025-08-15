@@ -8,7 +8,7 @@ Check out the live demo: [ScribbleAi Demo](https://shahzaib-d-memon.github.io/Sc
 
 ## Features
 
-- **User-Friendly Interface:** The website is designed with a clean and intuitive interface to provide users with a seamless experience.
+- **User Friendly Interface:** The website is designed with a clean and intuitive interface to provide users with a seamless experience.
 
 - **Responsive Design:** Utilizing HTML, CSS, and Bootstrap, the website is responsive and compatible with various screen sizes, ensuring a consistent experience across devices.
 
