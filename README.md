@@ -16,7 +16,7 @@ Check out the live demo: [ScribbleAi Demo](https://shahzaib-d-memon.github.io/Sc
 
 - **Sign Up Page:** A well-designed sign-up page with a background image, form, and call-to-action button.
 
-- **Dashboard Page:** Provides a glimpse of the dashboard layout and styling.
+- **Dashboard Page:** Provides a glimpse of the dashboard layout & styling.
 
 ## Getting Started
 
