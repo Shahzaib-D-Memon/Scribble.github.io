@@ -4,8 +4,6 @@ body {
   background-image: url("./images/background\ 1.png");
   background-position: center;
   background-repeat: no-repeat;
-  
-  
   background-size: cover;  
 }
 
@@ -519,6 +517,7 @@ line-height: 21px;
   h1 h2 h3 h4 h5 p button a span {
   font-family: "Poppins", sans-serif;
   }
+
 
 
 
